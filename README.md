@@ -14,9 +14,9 @@ General characteristics:
 
 
 Creators :
-Shoeb Ahmed, 
-Swaroop Hangal
+Shoeb Ahmed, <shaan114@gmail.com>
+Swaroop Hangal <swaroop.hangal@gmail.com>
 
 Contributors & Developers:
-Aseem Boarkar,
-Vraj Parekh
+Aseem Borkar <aseem.v.borkar@gmail.com> 
+Vraj Parikh <vrjparikh@gmail.com>
