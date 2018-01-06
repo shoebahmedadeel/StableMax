@@ -9,3 +9,12 @@ General characteristics:
 ●	All up weight: 1.2Kg (2.6 lbs)
 ●	Powerplant: ×4    BLDC motors 
 ●	Power Source : External swappable Li-Po batteries.
+
+
+Creators :
+Shoeb Ahmed 
+Swaroop Hangal
+
+Contributors & Developers:
+Aseem Boarkar
+Vraj Parekh
