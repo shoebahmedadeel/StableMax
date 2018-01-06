@@ -20,7 +20,7 @@ https://www.genstattu.com/gens-ace-5000mah-11-1v-50c-3s1p-hardcase-lipo-battery1
           Carbonfibre 4mm(recommended)
           will also work with Carbonfibre 3mm.
           
-          https://youtu.be/rFT191HRoeQ
+One of the few Flight videos of StableMax : https://youtu.be/rFT191HRoeQ
 
 Creators :
 Shoeb Ahmed, <shaan114@gmail.com>
