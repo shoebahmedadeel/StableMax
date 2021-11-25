@@ -16,16 +16,12 @@ https://www.genstattu.com/gens-ace-5000mah-11-1v-50c-3s1p-hardcase-lipo-battery1
 ● Controller : Pixhawk 2.1 http://www.proficnc.com/content/13-pixhawk2
 ● Spacers: 4Nos 2 inch (female to female)
            4Nos half Inch (male to female
-● Frame : Glassfibre 3mm 
-          Carbonfibre 4mm(recommended)
-          will also work with Carbonfibre 3mm.
+● Frame : 3D Printed PLA
           
 One of the few Flight videos of StableMax : https://youtu.be/rFT191HRoeQ
 
 Creators :
-Shoeb Ahmed, <shaan114@gmail.com>
-Swaroop Hangal <swaroop.hangal@gmail.com>
+Rachisi Solutions Pvt Ltd
 
-Contributors & Developers:
-Aseem Borkar <aseem.v.borkar@gmail.com> 
-Vraj Parikh <vrjparikh@gmail.com>
+
+
